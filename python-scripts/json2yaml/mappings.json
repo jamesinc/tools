@@ -1,0 +1,14 @@
+{
+	"copy": [
+		{ "source": "foo.bar", "target": "foo.baz" },
+		{ "source": "baz.bar", "target": "baz.foo" }		
+	],
+
+	// "move": [
+	// 	{ "source": "foo.bar", "target": "foo.baz" }
+	// ],
+
+	// "compute": [
+	// 	{ "target": "foo.bar", "function": "x.foo.baz == x.foo.bar" }
+	// ]
+}
